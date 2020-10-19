@@ -3,6 +3,7 @@
 
 ## Purpose
 A website that helps you generate a random password to increase your online security.
+Website prompts user for password length and charater types before generating the password. 
 
 ## Built With
 * HTML
